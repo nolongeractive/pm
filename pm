@@ -1,5 +1,5 @@
 #!/bin/zsh
-workspace=/usr/workspace/
+workspace=/Users/$(whoami)/workspace
 fullpath=$workspace$2
 
 alias ls='ls --color auto'
