@@ -1,0 +1,10 @@
+#compdef pm
+#autoload
+
+
+_arguments \
+'(--list)-l' \
+'(-l)--list' \
+'(--save)-s' \
+'(-s)--save' \
+'*:DIR:_files'
