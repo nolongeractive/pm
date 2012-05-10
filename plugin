@@ -1,7 +1,7 @@
 #script for pm
 
 # Customize to your needs...
-alias pm='./pm'
+alias pm='./ $(ZSH)/plugins/pm/pm'
 
 # COMPLETION SETTINGS
 # add custom completion scripts
